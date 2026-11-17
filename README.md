@@ -83,3 +83,5 @@ Replace `YOUR-USERNAME` with your GitHub username.
 
 ## Important safety note
 This project is for defensive analysis of logs you own or are authorized to inspect. It does not scan networks, exploit systems, or block traffic. Detection thresholds are simple educational heuristics and should not be treated as proof of compromise.
+
+## https://cybershield-security-log-analyzer-kkfsxtck3beotqm83eawky.streamlit.app/
